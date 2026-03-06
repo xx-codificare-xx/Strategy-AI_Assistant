@@ -1,17 +1,6 @@
 # 📊 StrategyAI — RAG Chatbot for Business Strategy
 
 **Team 12 · Advanced NLP & AI Applications · March 2025**
-
----
-
-## 👥 Team & Contributions
-
-| # | Name | Contribution |
-|---|------|---|
-| 1 | **Akansha** | Core RAG pipeline design & implementation · Multi-query retrieval with RRF · ChromaDB integration & chunk deduplication · Flask backend API · Browser frontend (`strategyai.html`) · Follow-up query resolver · Notebook architecture · System integration & testing |
-| 2 | **Manasvi** | Document corpus curation & preprocessing · Chunking strategy evaluation & comparison · Technical writeup drafting |
-| 3 | **Yijia** | Evaluation methodology & benchmark question set · Ablation testing (single-query vs. multi-query) · Results analysis & metrics reporting |
-
 ---
 
 A production-ready Retrieval-Augmented Generation chatbot over 50+ business strategy documents, featuring multi-query retrieval with Reciprocal Rank Fusion, persistent conversation memory, and a browser-native frontend served from a Jupyter notebook.
@@ -158,3 +147,13 @@ User query
 ## 🗂️ Document Corpus
 
 50+ curated strategy documents covering: Porter's Five Forces · BCG Matrix · Blue Ocean Strategy · Disruptive Innovation · Value Chain Analysis · M&A Synergies · Resource-Based View · Balanced Scorecard · SWOT/PESTLE · Game Theory in Strategy
+
+---
+
+## 👥 Team & Contributions
+
+| # | Name | Contribution |
+|---|------|---|
+| 1 | **Akansha** | Core RAG pipeline design & implementation · Multi-query retrieval with RRF · ChromaDB integration & chunk deduplication · Flask backend API · Browser frontend (`strategyai.html`) · Follow-up query resolver · Notebook architecture · System integration & testing |
+| 2 | **Manasvi** | Document corpus curation & preprocessing · Chunking strategy evaluation & comparison · Technical writeup drafting |
+| 3 | **Yijia** | Evaluation methodology & benchmark question set · Ablation testing (single-query vs. multi-query) · Results analysis & metrics reporting |
